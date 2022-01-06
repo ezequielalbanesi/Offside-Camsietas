@@ -1,0 +1,633 @@
+
+[ {
+    "id": 1,
+    "nombre": "Aldosivi Titular",
+    "precio": 5699,
+    "img": "../img/Camisetas/aldosiviTit.jpg" 
+  },
+ {
+    "id": 2,
+    "nombre": "Aldosivi Alternativa",
+    "precio": 5699,
+    "img": "../img/Camisetas/aldosiviSup.jpg" 
+  },
+   {
+    "id": 3,
+    "nombre": "Argentinos Jrs Titular",
+    "precio": 5799,
+    "img": "../img/Camisetas/argTit.jpg" 
+  },
+   {
+    "id": 4,
+    "nombre": "Argentinos Jrs Alternativa",
+    "precio": 5799,
+    "img": "../img/Camisetas/argSup.jpg" 
+  },
+   {
+    "id": 5,
+    "nombre": "Arsenal Titular",
+    "precio": 5799,
+    "img": "../img/Camisetas/arsenalTit.jpg" 
+  },
+   {
+    "id": 6,
+    "nombre": "Arsenal Alternativa",
+    "precio": 5500,
+    "img": "../img/Camisetas/arsenalSup.jpeg" 
+  },
+   {
+    "id": 7,
+    "nombre": "Atletico Tucuman Titular",
+    "precio": 5799,
+    "img": "../img/Camisetas/attucTit.jpg" 
+  },
+   {
+    "id": 8,
+    "nombre": "Atletico Tucuman Alternativa",
+    "precio": 5500,
+    "img": "../img/Camisetas/attucSup.jpg" 
+  },
+   {
+    "id": 9,
+    "nombre": "Boca Juniors Titular",
+    "precio": 8999,
+    "img": "../img/Camisetas/bocaTit.jpg" 
+  },
+  {
+    "id": 10,
+    "nombre": "Boca Juniors Alternativa",
+    "precio": 8999,
+    "img": "../img/Camisetas/bocaSup.jpg" 
+  },
+  {
+    "id": 11,
+    "nombre": "Boca Juniors Tercera",
+    "precio": 8999,
+    "img": "../img/Camisetas/bocaTerc.jpg" 
+  },
+  {
+    "id": 12,
+    "nombre": "Rosario Central Titular",
+    "precio": 7999,
+    "img": "../img/Camisetas/centralTit.jpg" 
+  },
+  {
+    "id": 13,
+    "nombre": "Rosario Central Alternativa",
+    "precio": 7999,
+    "img": "../img/Camisetas/centralSup.jpg" 
+  }, 
+    {
+    "id": 14,
+    "nombre": "Colon Titular",
+    "precio": 7999,
+    "img": "../img/Camisetas/colonTit.jpg" 
+  }, 
+  {
+    "id": 15,
+    "nombre": "Colon Alternativa",
+    "precio": 7999,
+    "img": "../img/Camisetas/colonSup.jpg" 
+  },
+  {
+    "id": 16,
+    "nombre": "Defensa y Justicia Titular",
+    "precio": 5500,
+    "img": "../img/Camisetas/dyjTit.jpg" 
+  },   
+  {
+    "id": 17,
+    "nombre": "Defensa y Justicia Alternativa",
+    "precio": 5500,
+    "img": "../img/Camisetas/dyjSup.jpg" 
+  },  
+  {
+    "id": 18,
+    "nombre": "Estudiantes Titular",
+    "precio": 6199,
+    "img": "../img/Camisetas/estudiantesTit.jpg" 
+  },   
+  {
+    "id": 19,
+    "nombre": "Estudiantes Alternativa",
+    "precio": 6199,
+    "img": "../img/Camisetas/estudiantesSup.jpg" 
+  },  
+    {
+    "id": 20,
+    "nombre": "Gimnasia Titular",
+    "precio": 6199,
+    "img": "../img/Camisetas/gelpTit.jpg" 
+  },
+    {
+    "id": 21,
+    "nombre": "Gimnasia Alternativa",
+    "precio": 6199,
+    "img": "../img/Camisetas/gelpSup.jpg" 
+  },
+    {
+    "id": 22,
+    "nombre": "Godoy Cruz Titular",
+    "precio": 6900,
+    "img": "../img/Camisetas/godoyTit.jpg" 
+  },
+    {
+    "id": 23,
+    "nombre": "Godoy Cruz Alternativa",
+    "precio": 6900,
+    "img": "../img/Camisetas/godoySup.jpeg" 
+  },
+    {
+    "id": 25,
+    "nombre": "Huracan Alternativa",
+    "precio": 6499,
+    "img": "../img/Camisetas/huracanSup.jpg" 
+  },
+    {
+    "id": 26,
+    "nombre": "Independiente Titular",
+    "precio": 7899,
+    "img": "../img/Camisetas/indepteTit.jpg" 
+  },
+    {
+    "id": 27,
+    "nombre": "Independiente Alternativa",
+    "precio": 7899,
+    "img": "../img/Camisetas/indepteSup.jpg" 
+  },
+    {
+    "id": 28,
+    "nombre": "Lanus Titular",
+    "precio": 5900,
+    "img": "../img/Camisetas/lanusTit.jpg" 
+  },
+    {
+    "id": 29,
+    "nombre": "Lanus Alternativa",
+    "precio": 5900,
+    "img": "../img/Camisetas/lanusSup.jpg" 
+  },
+  {
+    "id": 30,
+    "nombre": "Newell´s Titular",
+    "precio": 7899,
+    "img": "../img/Camisetas/newellsTit.jpg" 
+  },
+    {
+    "id": 31,
+    "nombre": "Newell´s Alternativa",
+    "precio": 7899,
+    "img": "../img/Camisetas/newellsSup.jpg" 
+  },
+    {
+    "id": 32,
+    "nombre": "Platense Titular",
+    "precio": 5600,
+    "img": "../img/Camisetas/PlatenseTit.jpeg" 
+  },
+    {
+    "id": 33,
+    "nombre": "Platense Alternativa",
+    "precio": 5600,
+    "img": "../img/Camisetas/platenseSup.png" 
+  },
+    {
+    "id": 34,
+    "nombre": "Racing Club Titular",
+    "precio": 7999,
+    "img": "../img/Camisetas/racingTit.jpg" 
+  },
+    {
+    "id": 35,
+    "nombre": "Racing Club Alternativa",
+    "precio": 7999,
+    "img": "../img/Camisetas/racingSup.jpg" 
+  },
+    {
+    "id": 36,
+    "nombre": "Racing Club Tercera",
+    "precio": 7999,
+    "img": "../img/Camisetas/RacingTerc.jpg" 
+  },
+    {
+    "id": 37,
+    "nombre": "River Plate Titular",
+    "precio": 8999,
+    "img": "../img/Camisetas/riverTit.jpg" 
+  },
+    {
+    "id": 38,
+    "nombre": "River Plate Tercera",
+    "precio": 8999,
+    "img": "../img/Camisetas/riverTerc.jpg" 
+  },
+    {
+    "id": 39,
+    "nombre": "San Lorenzo Titular",
+    "precio": 7999,
+    "img": "../img/Camisetas/caslaTit.webp" 
+  },
+    {
+    "id": 40,
+    "nombre": "San Lorenzo Alternativa",
+    "precio": 7999,
+    "img": "../img/Camisetas/caslaSup.jpg" 
+  },
+    {
+    "id": 41,
+    "nombre": "Sarmiento Junin Titular",
+    "precio": 5999,
+    "img": "../img/Camisetas/sarmientoTit.jpg" 
+  },
+    {
+    "id": 42,
+    "nombre": "Sarmiento Junin Alternativa",
+    "precio": 5999,
+    "img": "../img/Camisetas/sarmientoSup.jpg" 
+  },
+    {
+    "id": 43,
+    "nombre": "Talleres Titular",
+    "precio": 7510,
+    "img": "../img/Camisetas/talleresTit.jpg" 
+  },
+    {
+    "id": 44,
+    "nombre": "Talleres Alternativa",
+    "precio": 7510,
+    "img": "../img/Camisetas/talleresSup.jpg" 
+  },
+      {
+    "id": 45,
+    "nombre": "Union Titular",
+    "precio": 7519,
+    "img": "../img/Camisetas/unionTit.jpg" 
+  },
+      {
+    "id": 46,
+    "nombre": "Union Alternativa",
+    "precio": 7519,
+    "img": "../img/Camisetas/unionSup.jpg" 
+  },
+      {
+    "id": 47,
+    "nombre": "Velez Titular",
+    "precio": 7999,
+    "img": "../img/Camisetas/velezTit.jpg" 
+  },
+      {
+    "id": 48,
+    "nombre": "Velez Alternativa",
+    "precio": 7999,
+    "img": "../img/Camisetas/velezSup.jpg" 
+  },
+        {
+    "id": 49,
+    "nombre": "Roma",
+    "precio": 8999,
+    "img": "../img/Internacional/roma.jpg" 
+  },
+        {
+    "id": 50,
+    "nombre": "Bayern Munich",
+    "precio": 9999,
+    "img": "../img/Internacional/bayern.jpg" 
+  },
+          {
+    "id": 51,
+    "nombre": "Juventus",
+    "precio": 9999,
+    "img": "../img/Internacional/juventus.jpg" 
+  },
+
+        {
+    "id": 52,
+    "nombre": "Inter Milan",
+    "precio": 9499,
+    "img": "../img/Internacional/inter.jpg" 
+  },
+        {
+    "id": 53,
+    "nombre": "Borussia Dortmund",
+    "precio": 8999,
+    "img": "../img/Internacional/borussia.jpg" 
+  },
+          {
+    "id": 54,
+    "nombre": "Paris Saint Germain",
+    "precio": 9499,
+    "img": "../img/Internacional/psg.jpg" 
+  },
+          {
+    "id": 55,
+    "nombre": "Flamengo",
+    "precio": 9499,
+    "img": "../img/Internacional/flamengo.jpg" 
+  },
+          {
+    "id": 56,
+    "nombre": "Copenhague",
+    "precio": 8499,
+    "img": "../img/Internacional/copenhague.jpg" 
+  },
+          {
+    "id": 57,
+    "nombre": "Barcelona",
+    "precio": 9499,
+    "img": "../img/Internacional/barcelona.jpg" 
+  },
+  {
+    "id": 58,
+    "nombre": "Inter Miami",
+    "precio": 8499,
+    "img": "../img/Internacional/intermiami.jpg" 
+  },
+  {
+    "id": 59,
+    "nombre": "Atletico de Madrid",
+    "precio": 9499,
+    "img": "../img/Internacional/aleti.jpg" 
+  },
+    {
+    "id": 60,
+    "nombre": "Tottenham",
+    "precio": 9499,
+    "img": "../img/Internacional/spurs.jpg" 
+  },
+    {
+    "id": 61,
+    "nombre": "Liverpool",
+    "precio": 9999,
+    "img": "../img/Internacional/liverpool.jpg" 
+  },
+    {
+    "id": 62,
+    "nombre": "Manchester City",
+    "precio": 8999,
+    "img": "../img/Internacional/city.jpg" 
+  },
+    {
+    "id": 63,
+    "nombre": "Real Madrid",
+    "precio": 9999,
+    "img": "../img/Internacional/madrid.jpg" 
+  },
+      {
+    "id": 64,
+    "nombre": "Ajax",
+    "precio": 9499,
+    "img": "../img/Internacional/ajax.jpg" 
+  },
+      {
+    "id": 65,
+    "nombre": "Arsenal",
+    "precio": 9999,
+    "img": "../img/Internacional/arsenal.jpg" 
+  },
+      {
+    "id": 66,
+    "nombre": "Manchester United",
+    "precio": 9999,
+    "img": "../img/Internacional/united.jpg" 
+  },
+        {
+    "id": 67,
+    "nombre": "Predator Freak",
+    "precio": 10999,
+    "img": "../img/botines/predatorfreak.jpg" 
+  },
+          {
+    "id": 68,
+    "nombre": "Nemeziz",
+    "precio": 11999,
+    "img": "../img/botines/nemeziz.jpg" 
+  },
+  {
+    "id": 69,
+    "nombre": "Ultra",
+    "precio": 8999,
+    "img": "../img/botines/ultra.jpg" 
+  },
+          {
+    "id": 70,
+    "nombre": "Select Fg",
+    "precio": 11999,
+    "img": "../img/botines/selectfg.jpg" 
+  },
+          {
+    "id": 71,
+    "nombre": "Future",
+    "precio": 7999,
+    "img": "../img/botines/future.jpg" 
+  },
+          {
+    "id": 72,
+    "nombre": "Phantom",
+    "precio": 10899,
+    "img": "../img/botines/phantom.jpg" 
+  },
+    {
+    "id": 73,
+    "nombre": "Brasil",
+    "precio": 7499,
+    "img": "../img/botines/brasil.jpg" 
+  },
+      {
+    "id": 74,
+    "nombre": "Mercurial",
+    "precio": 13999,
+    "img": "../img/botines/mercurial.jpg" 
+  },
+      {
+    "id": 75,
+    "nombre": "Vapor",
+    "precio": 14499,
+    "img": "../img/botines/vapor.jpg" 
+  },
+      {
+    "id": 76,
+    "nombre": "Superfly",
+    "precio": 14999,
+    "img": "../img/botines/superfly.jpg" 
+  },
+      {
+    "id": 77,
+    "nombre": "Victory",
+    "precio": 12999,
+    "img": "../img/botines/victory.jpg" 
+  },
+        {
+    "id": 78,
+    "nombre": "Belgica",
+    "precio": 9499,
+    "img": "../img/Selecciones/belgica.jpg" 
+  },
+        {
+    "id": 79,
+    "nombre": "Dinamarca",
+    "precio": 9499,
+    "img": "../img/Selecciones/dinamarca.jpg" 
+  },
+    {
+    "id": 80,
+    "nombre": "Paises Bajos",
+    "precio": 9499,
+    "img": "../img/Selecciones/paisesbajos.jpg" 
+  },
+      {
+    "id": 81,
+    "nombre": "Uruguay",
+    "precio": 9499,
+    "img": "../img/Selecciones/uruguay.jpg" 
+  },
+      {
+    "id": 82,
+    "nombre": "Argentina",
+    "precio": 9499,
+    "img": "../img/Selecciones/Argentina.jpg" 
+  },
+      {
+    "id": 83,
+    "nombre": "Francia",
+    "precio": 9499,
+    "img": "../img/Selecciones/francia.jpg" 
+  },
+      {
+    "id": 84,
+    "nombre": "Brasil",
+    "precio": 9499,
+    "img": "../img/Selecciones/brasil.jpg" 
+  },
+        {
+    "id": 85,
+    "nombre": "Estados Unidos",
+    "precio": 9499,
+    "img": "../img/Selecciones/usa.jpg" 
+  },
+        {
+    "id": 86,
+    "nombre": "Italia",
+    "precio": 9499,
+    "img": "../img/Selecciones/italia.jpg" 
+  },
+        {
+    "id": 87,
+    "nombre": "Nigeria",
+    "precio": 9499,
+    "img": "../img/Selecciones/nigeria.jpg" 
+  },
+        {
+    "id": 88,
+    "nombre": "España",
+    "precio": 9499,
+    "img": "../img/Selecciones/españa.jpg" 
+  },
+          {
+    "id": 89,
+    "nombre": "Peru",
+    "precio": 9499,
+    "img": "../img/Selecciones/peru.jpg" 
+  },
+          {
+    "id": 90,
+    "nombre": "Alemania",
+    "precio": 9499,
+    "img": "../img/Selecciones/alemania.jpg" 
+  },
+          {
+    "id": 91,
+    "nombre": "Inglaterra",
+    "precio": 9499,
+    "img": "../img/Selecciones/inglaterra.jpg" 
+  },
+          {
+    "id": 92,
+    "nombre": "Australia",
+    "precio": 9499,
+    "img": "../img/Selecciones/australia.jpg" 
+  },
+            {
+    "id": 93,
+    "nombre": "Boca Juniors",
+    "precio": 5999,
+    "img": "../img/short/boca.jpg" 
+  },
+            {
+    "id": 94,
+    "nombre": "Paris Saint Germain",
+    "precio": 5499,
+    "img": "../img/short/psg.webp" 
+  },
+ {
+    "id": 95,
+    "nombre": "Manchester United",
+    "precio": 4999,
+    "img": "../img/short/united.jpg" 
+  },
+ {
+    "id": 96,
+    "nombre": "Barcelona",
+    "precio": 4999,
+    "img": "../img/short/barcelona.jpg" 
+  },
+ {
+    "id": 97,
+    "nombre": "Juventus",
+    "precio": 4499,
+    "img": "../img/short/juventus.jpg" 
+  },
+ {
+    "id": 98,
+    "nombre": "Velez Sarsfield",
+    "precio": 4099,
+    "img": "../img/short/velez.jpg" 
+  },
+ {
+    "id": 99,
+    "nombre": "River Plate",
+    "precio": 5499,
+    "img": "../img/short/river.jpg" 
+  },
+ {
+    "id": 100,
+    "nombre": "Argentina",
+    "precio": 5999,
+    "img": "../img/short/argentina.jpg" 
+  },
+ {
+    "id": 101,
+    "nombre": "Manchester City",
+    "precio": 4499,
+    "img": "../img/short/city.jpg" 
+  },
+ {
+    "id": 102,
+    "nombre": "Milan",
+    "precio": 5499,
+    "img": "../img/short/milan.jpg" 
+  },
+ {
+    "id": 103,
+    "nombre": "Racing Club",
+    "precio": 4999,
+    "img": "../img/short/racing.jpg" 
+  },
+ {
+    "id": 104,
+    "nombre": "Real Madrid",
+    "precio": 5999,
+    "img": "../img/short/realmadrid.jpg" 
+  },
+ {
+    "id": 105,
+    "nombre": "Liverpool",
+    "precio": 5499,
+    "img": "../img/short/liverpool.jpg" 
+  },
+ {
+    "id": 106,
+    "nombre": "San Lorenzo",
+    "precio": 4499,
+    "img": "../img/short/casla.jpg" 
+  }
+]
